@@ -1,0 +1,12 @@
+F:\ME\Study\Software Engineering\.NET\LINQ (Metigator)\LINQ\LINQ.Shared\bin\Debug\net8.0\LINQ.Shared.deps.json
+F:\ME\Study\Software Engineering\.NET\LINQ (Metigator)\LINQ\LINQ.Shared\bin\Debug\net8.0\LINQ.Shared.dll
+F:\ME\Study\Software Engineering\.NET\LINQ (Metigator)\LINQ\LINQ.Shared\bin\Debug\net8.0\LINQ.Shared.pdb
+F:\ME\Study\Software Engineering\.NET\LINQ (Metigator)\LINQ\LINQ.Shared\obj\Debug\net8.0\LINQ.Shared.GeneratedMSBuildEditorConfig.editorconfig
+F:\ME\Study\Software Engineering\.NET\LINQ (Metigator)\LINQ\LINQ.Shared\obj\Debug\net8.0\LINQ.Shared.AssemblyInfoInputs.cache
+F:\ME\Study\Software Engineering\.NET\LINQ (Metigator)\LINQ\LINQ.Shared\obj\Debug\net8.0\LINQ.Shared.AssemblyInfo.cs
+F:\ME\Study\Software Engineering\.NET\LINQ (Metigator)\LINQ\LINQ.Shared\obj\Debug\net8.0\LINQ.Shared.csproj.CoreCompileInputs.cache
+F:\ME\Study\Software Engineering\.NET\LINQ (Metigator)\LINQ\LINQ.Shared\obj\Debug\net8.0\LINQ.Shared.sourcelink.json
+F:\ME\Study\Software Engineering\.NET\LINQ (Metigator)\LINQ\LINQ.Shared\obj\Debug\net8.0\LINQ.Shared.dll
+F:\ME\Study\Software Engineering\.NET\LINQ (Metigator)\LINQ\LINQ.Shared\obj\Debug\net8.0\refint\LINQ.Shared.dll
+F:\ME\Study\Software Engineering\.NET\LINQ (Metigator)\LINQ\LINQ.Shared\obj\Debug\net8.0\LINQ.Shared.pdb
+F:\ME\Study\Software Engineering\.NET\LINQ (Metigator)\LINQ\LINQ.Shared\obj\Debug\net8.0\ref\LINQ.Shared.dll
