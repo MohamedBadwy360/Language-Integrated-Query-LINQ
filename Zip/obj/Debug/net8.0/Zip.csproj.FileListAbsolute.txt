@@ -1,0 +1,15 @@
+F:\ME\Study\Software Engineering\.NET\LINQ (Metigator)\LINQ\Zip\bin\Debug\net8.0\Zip.exe
+F:\ME\Study\Software Engineering\.NET\LINQ (Metigator)\LINQ\Zip\bin\Debug\net8.0\Zip.deps.json
+F:\ME\Study\Software Engineering\.NET\LINQ (Metigator)\LINQ\Zip\bin\Debug\net8.0\Zip.runtimeconfig.json
+F:\ME\Study\Software Engineering\.NET\LINQ (Metigator)\LINQ\Zip\bin\Debug\net8.0\Zip.dll
+F:\ME\Study\Software Engineering\.NET\LINQ (Metigator)\LINQ\Zip\bin\Debug\net8.0\Zip.pdb
+F:\ME\Study\Software Engineering\.NET\LINQ (Metigator)\LINQ\Zip\obj\Debug\net8.0\Zip.GeneratedMSBuildEditorConfig.editorconfig
+F:\ME\Study\Software Engineering\.NET\LINQ (Metigator)\LINQ\Zip\obj\Debug\net8.0\Zip.AssemblyInfoInputs.cache
+F:\ME\Study\Software Engineering\.NET\LINQ (Metigator)\LINQ\Zip\obj\Debug\net8.0\Zip.AssemblyInfo.cs
+F:\ME\Study\Software Engineering\.NET\LINQ (Metigator)\LINQ\Zip\obj\Debug\net8.0\Zip.csproj.CoreCompileInputs.cache
+F:\ME\Study\Software Engineering\.NET\LINQ (Metigator)\LINQ\Zip\obj\Debug\net8.0\Zip.sourcelink.json
+F:\ME\Study\Software Engineering\.NET\LINQ (Metigator)\LINQ\Zip\obj\Debug\net8.0\Zip.dll
+F:\ME\Study\Software Engineering\.NET\LINQ (Metigator)\LINQ\Zip\obj\Debug\net8.0\refint\Zip.dll
+F:\ME\Study\Software Engineering\.NET\LINQ (Metigator)\LINQ\Zip\obj\Debug\net8.0\Zip.pdb
+F:\ME\Study\Software Engineering\.NET\LINQ (Metigator)\LINQ\Zip\obj\Debug\net8.0\Zip.genruntimeconfig.cache
+F:\ME\Study\Software Engineering\.NET\LINQ (Metigator)\LINQ\Zip\obj\Debug\net8.0\ref\Zip.dll
