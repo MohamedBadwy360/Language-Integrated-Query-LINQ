@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Collections.Generic; 
-namespace LINQTut04.Shared
+namespace LINQ.Shared
 {
     public static class ExtensionFunctional
     {
