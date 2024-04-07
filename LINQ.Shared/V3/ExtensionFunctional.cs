@@ -1,6 +1,7 @@
-﻿using System;
+﻿using LINQ.Shared.V3;
+using System;
 using System.Collections.Generic; 
-namespace LINQ.Shared
+namespace LINQ.Shared.V3
 {
     public static class ExtensionFunctional
     {
@@ -29,7 +30,7 @@ namespace LINQ.Shared
             Console.WriteLine();
             foreach (var item in source)
             {
-                if (typeof(T).IsValueType) 
+                if (typeof(T).IsValueType)
                     Console.Write($" {item} "); // 1, 2, 3
                 else
                     Console.WriteLine(item);

@@ -1,15 +1,15 @@
 ﻿
 using System;
-using System.Collections.Generic; 
+using System.Collections.Generic;
 
-namespace LINQ.Shared
+namespace LINQ.Shared.V1
 {
     public static class Repository
     {
 
         public static IEnumerable<Employee> LoadEmployees()
         {
-            return new List<Employee> 
+            return new List<Employee>
             {
             new Employee
                 {
@@ -812,6 +812,6 @@ namespace LINQ.Shared
                         Skills = new() {"NodeJS" , "CSS"}
                 }
             };
-        } 
+        }
     }
 }
