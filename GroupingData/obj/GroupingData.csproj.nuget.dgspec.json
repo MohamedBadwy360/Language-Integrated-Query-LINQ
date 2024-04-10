@@ -1,0 +1,132 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\ME\\Study\\Software Engineering\\.NET\\LINQ (Metigator)\\LINQ\\GroupingData\\GroupingData.csproj": {}
+  },
+  "projects": {
+    "F:\\ME\\Study\\Software Engineering\\.NET\\LINQ (Metigator)\\LINQ\\GroupingData\\GroupingData.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\ME\\Study\\Software Engineering\\.NET\\LINQ (Metigator)\\LINQ\\GroupingData\\GroupingData.csproj",
+        "projectName": "GroupingData",
+        "projectPath": "F:\\ME\\Study\\Software Engineering\\.NET\\LINQ (Metigator)\\LINQ\\GroupingData\\GroupingData.csproj",
+        "packagesPath": "C:\\Users\\Mohamed Badwy\\.nuget\\packages\\",
+        "outputPath": "F:\\ME\\Study\\Software Engineering\\.NET\\LINQ (Metigator)\\LINQ\\GroupingData\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Mohamed Badwy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "F:\\ME\\Study\\Software Engineering\\.NET\\LINQ (Metigator)\\LINQ\\LINQ.Shared\\LINQ.Shared.csproj": {
+                "projectPath": "F:\\ME\\Study\\Software Engineering\\.NET\\LINQ (Metigator)\\LINQ\\LINQ.Shared\\LINQ.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\ME\\Study\\Software Engineering\\.NET\\LINQ (Metigator)\\LINQ\\LINQ.Shared\\LINQ.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\ME\\Study\\Software Engineering\\.NET\\LINQ (Metigator)\\LINQ\\LINQ.Shared\\LINQ.Shared.csproj",
+        "projectName": "LINQ.Shared",
+        "projectPath": "F:\\ME\\Study\\Software Engineering\\.NET\\LINQ (Metigator)\\LINQ\\LINQ.Shared\\LINQ.Shared.csproj",
+        "packagesPath": "C:\\Users\\Mohamed Badwy\\.nuget\\packages\\",
+        "outputPath": "F:\\ME\\Study\\Software Engineering\\.NET\\LINQ (Metigator)\\LINQ\\LINQ.Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Mohamed Badwy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
