@@ -1,4 +1,5 @@
 ﻿using System.Collections.Generic;
+using System.Linq;
 namespace LINQ.Shared.V6
 {
     public class Question
@@ -37,6 +38,41 @@ namespace LINQ.Shared.V6
 
             return $"{Title}" +
                    $"{choices}"; 
+        }
+
+        public override bool Equals(object obj)
+        {
+            if (ReferenceEquals(obj, null))
+            {
+                return false;
+            }
+
+            if (ReferenceEquals(this, obj))
+            {
+                return true;
+            }
+            
+            if (this.GetType() != obj.GetType())
+            {
+                return false;
+            }
+
+            Question other = (Question)obj;
+
+            return other.CorrectAnswer == this.CorrectAnswer &&
+                other.Title.Equals(this.Title) &&
+                other.Choices.SequenceEqual(this.Choices);
+        }
+
+        public override int GetHashCode()
+        {
+            int hash = 17;
+            // Check null
+            hash = hash * 23 + Title.GetHashCode();
+            hash = hash * 23 + Choices.GetHashCode();
+            hash = hash * 23 + CorrectAnswer.GetHashCode();
+
+            return hash;
         }
     }
 }
