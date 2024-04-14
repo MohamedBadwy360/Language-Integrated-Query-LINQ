@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Concatenation/1.0.0": {
+        "dependencies": {
+          "LINQ.Shared": "1.0.0"
+        },
+        "runtime": {
+          "Concatenation.dll": {}
+        }
+      },
+      "LINQ.Shared/1.0.0": {
+        "runtime": {
+          "LINQ.Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Concatenation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LINQ.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
