@@ -5,6 +5,9 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Folder Include="V9\" />
+    <Folder Include="V8\" />
+    <Folder Include="V7\" />
     <Folder Include="V6\" />
     <Folder Include="V5\" />
     <Folder Include="V4\" />
