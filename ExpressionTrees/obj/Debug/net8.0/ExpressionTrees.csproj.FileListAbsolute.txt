@@ -1,0 +1,15 @@
+F:\ME\Study\Software Engineering\.NET\LINQ (Metigator)\LINQ\ExpressionTrees\bin\Debug\net8.0\ExpressionTrees.exe
+F:\ME\Study\Software Engineering\.NET\LINQ (Metigator)\LINQ\ExpressionTrees\bin\Debug\net8.0\ExpressionTrees.deps.json
+F:\ME\Study\Software Engineering\.NET\LINQ (Metigator)\LINQ\ExpressionTrees\bin\Debug\net8.0\ExpressionTrees.runtimeconfig.json
+F:\ME\Study\Software Engineering\.NET\LINQ (Metigator)\LINQ\ExpressionTrees\bin\Debug\net8.0\ExpressionTrees.dll
+F:\ME\Study\Software Engineering\.NET\LINQ (Metigator)\LINQ\ExpressionTrees\bin\Debug\net8.0\ExpressionTrees.pdb
+F:\ME\Study\Software Engineering\.NET\LINQ (Metigator)\LINQ\ExpressionTrees\obj\Debug\net8.0\ExpressionTrees.GeneratedMSBuildEditorConfig.editorconfig
+F:\ME\Study\Software Engineering\.NET\LINQ (Metigator)\LINQ\ExpressionTrees\obj\Debug\net8.0\ExpressionTrees.AssemblyInfoInputs.cache
+F:\ME\Study\Software Engineering\.NET\LINQ (Metigator)\LINQ\ExpressionTrees\obj\Debug\net8.0\ExpressionTrees.AssemblyInfo.cs
+F:\ME\Study\Software Engineering\.NET\LINQ (Metigator)\LINQ\ExpressionTrees\obj\Debug\net8.0\ExpressionTrees.csproj.CoreCompileInputs.cache
+F:\ME\Study\Software Engineering\.NET\LINQ (Metigator)\LINQ\ExpressionTrees\obj\Debug\net8.0\ExpressionTrees.sourcelink.json
+F:\ME\Study\Software Engineering\.NET\LINQ (Metigator)\LINQ\ExpressionTrees\obj\Debug\net8.0\ExpressionTrees.dll
+F:\ME\Study\Software Engineering\.NET\LINQ (Metigator)\LINQ\ExpressionTrees\obj\Debug\net8.0\refint\ExpressionTrees.dll
+F:\ME\Study\Software Engineering\.NET\LINQ (Metigator)\LINQ\ExpressionTrees\obj\Debug\net8.0\ExpressionTrees.pdb
+F:\ME\Study\Software Engineering\.NET\LINQ (Metigator)\LINQ\ExpressionTrees\obj\Debug\net8.0\ExpressionTrees.genruntimeconfig.cache
+F:\ME\Study\Software Engineering\.NET\LINQ (Metigator)\LINQ\ExpressionTrees\obj\Debug\net8.0\ref\ExpressionTrees.dll
