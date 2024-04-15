@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CustomLINQMethod/1.0.0": {
+        "dependencies": {
+          "LINQ.Shared": "1.0.0"
+        },
+        "runtime": {
+          "CustomLINQMethod.dll": {}
+        }
+      },
+      "LINQ.Shared/1.0.0": {
+        "runtime": {
+          "LINQ.Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CustomLINQMethod/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LINQ.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
