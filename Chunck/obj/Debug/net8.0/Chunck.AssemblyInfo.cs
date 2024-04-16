@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Chunck")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+73cc9178e30e9fe02ff5a66181d2c6623790c646")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+04c6ea270b43f22e951c70e115e40919ea86d15e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Chunck")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Chunck")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

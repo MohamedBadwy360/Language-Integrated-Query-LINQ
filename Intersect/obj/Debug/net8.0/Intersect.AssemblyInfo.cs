@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Intersect")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+440e965d8cc8bf44d62213bb127ce21b980752fd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+04c6ea270b43f22e951c70e115e40919ea86d15e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Intersect")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Intersect")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

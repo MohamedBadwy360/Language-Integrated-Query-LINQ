@@ -1,4 +1,4 @@
-﻿using LINQ.Shared;
+﻿using LINQ.Shared.V1;
 
 namespace SelectMany
 {

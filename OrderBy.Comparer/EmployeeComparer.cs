@@ -1,4 +1,4 @@
-﻿using LINQ.Shared;
+﻿using LINQ.Shared.V2;
 using System;
 using System.Collections.Generic;
 using System.Linq;

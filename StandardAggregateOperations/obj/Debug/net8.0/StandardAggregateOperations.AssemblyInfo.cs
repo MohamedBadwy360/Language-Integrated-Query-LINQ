@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StandardAggregateOperations")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3281da188970ad76e367b4221767c07a96f4f798")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+04c6ea270b43f22e951c70e115e40919ea86d15e")]
 [assembly: System.Reflection.AssemblyProductAttribute("StandardAggregateOperations")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StandardAggregateOperations")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

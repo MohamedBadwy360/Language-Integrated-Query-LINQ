@@ -1,4 +1,5 @@
-﻿using LINQ.Shared;
+﻿using LINQ.Shared.V1;
+using LINQ.Shared.V2;
 
 namespace OrderBy.Comparer
 {
